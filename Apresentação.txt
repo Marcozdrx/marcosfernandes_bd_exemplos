@@ -1,0 +1,4 @@
+Nome: Marcos Paulo Fernandes
+Idade: 16 Anos
+Conhecimento: Me garanto mais em JavaScript, mas me dou muito bem em Python, HTML e CSS
+Passatempo: Gosto muito de Tocar contrabaixo, cozinhar e jogar jogos eletrônicos/simuladores.
